@@ -26,5 +26,11 @@ ___
 
 ___
 
+<h3 align="left">Connect With Me:</h3>
+<p align="left"> <a href="https://www.codechef.com/users/chef_void" target="_blank"> <img src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="python" width="40" height="40"/> </a> 
+<a href="https://void-gamez.itch.io/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="itch" width="40" height="40"/> </a></p>
+
+___
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoiDxCode&layout=compact&theme=codeSTACKr)
