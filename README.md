@@ -2,7 +2,6 @@
 <br /> 
 
                     
-`**Digital Craftsman (Developer / Programmer)**`
 
                     
 
