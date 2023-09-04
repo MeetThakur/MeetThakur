@@ -33,8 +33,8 @@
 
                     
 
-<p><a href="https://github.com/VoiDxCode#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidyCodes&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="VoiDxCode" /></a>
-  <a href="https://github.com/VoiDxCode#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidyCodes&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="VoiDxCode" /></a>
+<p><a href="https://github.com/VoidyCodes#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidyCodes&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="VoiDxCode" /></a>
+  <a href="https://github.com/VoidCodes#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidyCodes&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="VoiDxCode" /></a>
 </p>
 
 <br />
@@ -45,13 +45,13 @@
 <br>
 <br />
 
-<p><a href="https://github.com/VoiDxCode#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=VoiDxCode&theme=nightowl#gh-dark-mode-only" alt="VoiDxCode"/></a>
-<a href="https://github.com/VoiDxCode#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=VoiDxCode&theme=vue#gh-light-mode-only" alt="VoiDxCode"/></a></p>
+<p><a href="https://github.com/VoidyCodes#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=VoidyCodes&theme=nightowl#gh-dark-mode-only" alt="VoiDxCode"/></a>
+<a href="https://github.com/VoidyCodes#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=VoidyCodes&theme=vue#gh-light-mode-only" alt="VoiDxCode"/></a></p>
 <br/>
 <br />
 
-<p><a href="https://github.com/VoiDxCode#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=VoiDxCode&theme=nightowl#gh-dark-mode-only" alt="VoiDxCode" /></a>
-<a href="https://github.com/VoiDxCode#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=VoiDxCode&theme=vue#gh-light-mode-only" alt="VoiDxCode" /></a></p>
+<p><a href="https://github.com/VoidyCodes#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=VoidyCodes&theme=nightowl#gh-dark-mode-only" alt="VoiDxCode" /></a>
+<a href="https://github.com/VoidyCodes#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=VoidyCodes&theme=vue#gh-light-mode-only" alt="VoiDxCode" /></a></p>
 <br/>
 
 ---
