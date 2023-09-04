@@ -33,14 +33,14 @@
 
                     
 
-<p><a href="https://github.com/VoiDxCode#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoiDxCode&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="VoiDxCode" /></a>
-  <a href="https://github.com/VoiDxCode#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoiDxCode&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="VoiDxCode" /></a>
+<p><a href="https://github.com/VoiDxCode#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidyCodes&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="VoiDxCode" /></a>
+  <a href="https://github.com/VoiDxCode#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidyCodes&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="VoiDxCode" /></a>
 </p>
 
 <br />
 
-<p>&nbsp;<a href="https://github.com/VoiDxCode#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VoiDxCode&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="VoiDxCode" /></a>
-<a href="https://github.com/VoiDxCode#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VoiDxCode&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="VoiDxCode" /></a>
+<p>&nbsp;<a href="https://github.com/VoidyCodes#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VoidyCodes&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="VoiDxCode" /></a>
+<a href="https://github.com/VoidyCodes#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VoidyCodes&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="VoiDxCode" /></a>
 </p> 
 <br>
 <br />
