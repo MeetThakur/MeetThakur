@@ -27,7 +27,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 </div>
 
-### ⚙️ &nbsp;GitHub Analytics
+<h3 align="left"> ⚙ Github Stats</h3>
 <p align="left">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MeetThakur&show_icons=true&theme=algolia&include_all_commits=true&count_private=trueexclude_repo=https://github.com/MeetThakur/Bday"/>
   
