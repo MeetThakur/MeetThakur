@@ -14,15 +14,6 @@
 
 
 <h1 align="center">Hey there 👋</h1>
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-
-  🔭 I’m a CSE Undergrad<br>
-  📚 Learning web development<br> 
-  ⚡ In my free time I play games
-
-
 <h3 align="left">🛠 Language and Tools</h3>
 
 <div align="left"
@@ -37,7 +28,7 @@
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
+<p align="left">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MeetThakur&show_icons=true&theme=algolia&include_all_commits=true&count_private=trueexclude_repo=https://github.com/MeetThakur/Bday"/>
   
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MeetThakur&layout=small&langs_count=8&theme=algolia&exclude_repo=https://github.com/MeetThakur/Bday"/>
