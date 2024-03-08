@@ -36,9 +36,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MeetThakur&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&exclude_repo=Bday"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MeetThakur&show_icons=true&theme=algolia&include_all_commits=true&count_private=trueexclude_repo=https://github.com/MeetThakur/Bday"/>
   
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MeetThakur&layout=small&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MeetThakur&layout=small&langs_count=8&theme=algolia&exclude_repo=https://github.com/MeetThakur/Bday"/>
   
 <img src="https://streak-stats.demolab.com?user=MeetThakur&theme=dark"/>
 </p>
