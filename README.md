@@ -103,20 +103,6 @@ const meet = {
 
 ---
 
-### 🐍 Watch the Snake Eat My Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeetThakur/MeetThakur/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeetThakur/MeetThakur/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MeetThakur/MeetThakur/output/github-snake.svg">
-  </picture>
-</p>
-
-> ⬆️ *To activate the snake: create `.github/workflows/snake.yml` in your profile repo — [setup guide here](https://github.com/Platane/snk)*
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MeetThakur&style=flat-square&color=e94560" alt="Profile views" />
 </p>
